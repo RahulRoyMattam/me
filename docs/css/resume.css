@@ -17,7 +17,6 @@ h1,
 h2,
 h3,
 h4,
-h5,
 h6 {
   font-family: 'Saira Extra Condensed', serif;
   font-weight: 700;
@@ -113,3 +112,8 @@ a {
   color: #BD5D38; }
   a:hover, a:focus, a:active {
     color: #824027; }
+
+.image-gallery {
+  height: 100%; 
+  width: 100%
+}
